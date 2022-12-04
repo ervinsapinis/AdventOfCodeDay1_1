@@ -2,4 +2,4 @@
 
 Console.WriteLine("Hello");
 
-Day2.Run();
+Day2.RunTask2();
